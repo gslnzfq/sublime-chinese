@@ -2,6 +2,7 @@
 ```bash
 git clone https://github.com/xkadmin/sublime-chinese.git
 ```
+
 代码结构是：
 ```text
 - bin
@@ -15,6 +16,7 @@ git clone https://github.com/xkadmin/sublime-chinese.git
 ```
 
 操作：
+
 1、 复制共享库libsublime-imfix.so到 /opt/sublime_text
 ```bash
 sudo cp ./lib/libsublime-imfix.so /opt/sublime_text
