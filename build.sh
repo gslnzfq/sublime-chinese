@@ -1,0 +1,1 @@
+gcc -shared -o lib/libsublime-imfix.so src/sublime_imfix.c  `pkg-config --libs --cflags gtk+-2.0` -fPIC
