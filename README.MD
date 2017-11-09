@@ -1,3 +1,7 @@
+# 解决ubuntu下sublime不能输入中文的解决方案  
+
+*首先你要安装fcitx，否则下面的配置可能不会生效*
+
 下载代码：
 ```bash
 git clone https://github.com/xkadmin/sublime-chinese.git
